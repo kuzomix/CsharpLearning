@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "output", "output\output.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "variables", "variables\variables.csproj", "{4145E17A-225A-4A75-8144-206D39DC0C91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "constants_pi", "constants_pi\constants_pi.csproj", "{6D9E30FD-8AAB-4EC8-83AF-EB0D2583FE9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "type_casting", "type_casting\type_casting.csproj", "{4ADCCBBA-9254-453C-8A7C-AB86B9ABA7A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{4145E17A-225A-4A75-8144-206D39DC0C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4145E17A-225A-4A75-8144-206D39DC0C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4145E17A-225A-4A75-8144-206D39DC0C91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D9E30FD-8AAB-4EC8-83AF-EB0D2583FE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9E30FD-8AAB-4EC8-83AF-EB0D2583FE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9E30FD-8AAB-4EC8-83AF-EB0D2583FE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9E30FD-8AAB-4EC8-83AF-EB0D2583FE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ADCCBBA-9254-453C-8A7C-AB86B9ABA7A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADCCBBA-9254-453C-8A7C-AB86B9ABA7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ADCCBBA-9254-453C-8A7C-AB86B9ABA7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADCCBBA-9254-453C-8A7C-AB86B9ABA7A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
