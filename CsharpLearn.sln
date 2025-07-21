@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "user_input", "user_input\us
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arithmetic_operators", "arithmetic_operators\arithmetic_operators.csproj", "{280CD347-2D75-42C0-B8F5-3B7E710BF2C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math_class", "Math_class\Math_class.csproj", "{C41215B6-B011-418E-8344-EC2B045ECEAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "random_numbers", "random_numbers\random_numbers.csproj", "{53B1D173-B4E8-45ED-BA2F-EC3268FF9CEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{280CD347-2D75-42C0-B8F5-3B7E710BF2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{280CD347-2D75-42C0-B8F5-3B7E710BF2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{280CD347-2D75-42C0-B8F5-3B7E710BF2C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C41215B6-B011-418E-8344-EC2B045ECEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41215B6-B011-418E-8344-EC2B045ECEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41215B6-B011-418E-8344-EC2B045ECEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41215B6-B011-418E-8344-EC2B045ECEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53B1D173-B4E8-45ED-BA2F-EC3268FF9CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B1D173-B4E8-45ED-BA2F-EC3268FF9CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B1D173-B4E8-45ED-BA2F-EC3268FF9CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B1D173-B4E8-45ED-BA2F-EC3268FF9CEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
