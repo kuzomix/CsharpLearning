@@ -7,23 +7,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherApp", "WeatherApp\WeatherApp.csproj", "{60361F81-CC0C-4C0E-8CA2-CAA429C7876E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstProgram", "MyFirstProgram\MyFirstProgram.csproj", "{01A8506A-E402-47E7-AA88-CD58CC9A3FAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirstProgram", "MyFirstProgram\MyFirstProgram.csproj", "{01A8506A-E402-47E7-AA88-CD58CC9A3FAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "output", "output\output.csproj", "{1824E93A-7747-4830-BD30-26A4E1ADB47D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "output", "output\output.csproj", "{1824E93A-7747-4830-BD30-26A4E1ADB47D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "variables", "variables\variables.csproj", "{4145E17A-225A-4A75-8144-206D39DC0C91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "variables", "variables\variables.csproj", "{4145E17A-225A-4A75-8144-206D39DC0C91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "constants_pi", "constants_pi\constants_pi.csproj", "{6D9E30FD-8AAB-4EC8-83AF-EB0D2583FE9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "constants_pi", "constants_pi\constants_pi.csproj", "{6D9E30FD-8AAB-4EC8-83AF-EB0D2583FE9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "type_casting", "type_casting\type_casting.csproj", "{4ADCCBBA-9254-453C-8A7C-AB86B9ABA7A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "type_casting", "type_casting\type_casting.csproj", "{4ADCCBBA-9254-453C-8A7C-AB86B9ABA7A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "user_input", "user_input\user_input.csproj", "{993E0745-7602-4C40-915F-302011DABC59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "user_input", "user_input\user_input.csproj", "{993E0745-7602-4C40-915F-302011DABC59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arithmetic_operators", "arithmetic_operators\arithmetic_operators.csproj", "{280CD347-2D75-42C0-B8F5-3B7E710BF2C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "arithmetic_operators", "arithmetic_operators\arithmetic_operators.csproj", "{280CD347-2D75-42C0-B8F5-3B7E710BF2C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math_class", "Math_class\Math_class.csproj", "{C41215B6-B011-418E-8344-EC2B045ECEAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math_class", "Math_class\Math_class.csproj", "{C41215B6-B011-418E-8344-EC2B045ECEAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "random_numbers", "random_numbers\random_numbers.csproj", "{53B1D173-B4E8-45ED-BA2F-EC3268FF9CEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "random_numbers", "random_numbers\random_numbers.csproj", "{53B1D173-B4E8-45ED-BA2F-EC3268FF9CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hypotenuse_calculator_program", "hypotenuse_calculator_program\hypotenuse_calculator_program.csproj", "{5A69C0DE-4AEF-48DB-8AC6-4AE843B0936E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string_methods", "string_methods\string_methods.csproj", "{BEE01F8F-4E0B-4753-95CF-8772CE9AD470}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{53B1D173-B4E8-45ED-BA2F-EC3268FF9CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53B1D173-B4E8-45ED-BA2F-EC3268FF9CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53B1D173-B4E8-45ED-BA2F-EC3268FF9CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A69C0DE-4AEF-48DB-8AC6-4AE843B0936E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A69C0DE-4AEF-48DB-8AC6-4AE843B0936E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A69C0DE-4AEF-48DB-8AC6-4AE843B0936E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A69C0DE-4AEF-48DB-8AC6-4AE843B0936E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEE01F8F-4E0B-4753-95CF-8772CE9AD470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE01F8F-4E0B-4753-95CF-8772CE9AD470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE01F8F-4E0B-4753-95CF-8772CE9AD470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE01F8F-4E0B-4753-95CF-8772CE9AD470}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
