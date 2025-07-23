@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hypotenuse_calculator_progr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string_methods", "string_methods\string_methods.csproj", "{BEE01F8F-4E0B-4753-95CF-8772CE9AD470}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if_statements", "if_statements\if_statements.csproj", "{7C5FD401-D6EB-4F3F-B308-6AC5CDF6D28B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switches", "switches\switches.csproj", "{56437173-7F42-4BBA-8D7D-B145969CD75F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{BEE01F8F-4E0B-4753-95CF-8772CE9AD470}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEE01F8F-4E0B-4753-95CF-8772CE9AD470}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEE01F8F-4E0B-4753-95CF-8772CE9AD470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C5FD401-D6EB-4F3F-B308-6AC5CDF6D28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5FD401-D6EB-4F3F-B308-6AC5CDF6D28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5FD401-D6EB-4F3F-B308-6AC5CDF6D28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5FD401-D6EB-4F3F-B308-6AC5CDF6D28B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56437173-7F42-4BBA-8D7D-B145969CD75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56437173-7F42-4BBA-8D7D-B145969CD75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56437173-7F42-4BBA-8D7D-B145969CD75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56437173-7F42-4BBA-8D7D-B145969CD75F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
